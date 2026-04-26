@@ -183,7 +183,7 @@ This repository contains a structured series of notebooks covering the mathemati
 
 ## 📌 Notes
 
-* The notebooks are designed to be **progressive**—earlier sections build intuition for later topics.
+* The notebooks are designed to be **progressive** earlier sections build intuition for later topics.
 * Mathematical understanding is emphasized alongside practical implementation.
 
 ---
